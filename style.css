@@ -3,9 +3,22 @@ html{
     background-color: rgb(53,53,53);
     color: whitesmoke 
 }
-body{
-font-family: cursive;
+
+header{
+    font-family: 'Tangerine', cursive;
+font-size: 70px;
 }
+h3{
+    font-family: 'Unica One', cursive;
+font-size: 22px;
+}
+
+h2{
+    font-family: 'Unica One', cursive;
+
+}
+
+
 
 
     
